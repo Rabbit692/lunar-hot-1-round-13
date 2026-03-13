@@ -1,0 +1,5 @@
+{
+    "base": {
+        "positive": "Show this object in three-quarters view and make sure it is fully visible and identical to original image. Turn background neutral solid color contrasting all objects. Remove shadow effects and blurs. Sharpen image details."
+    }
+}
